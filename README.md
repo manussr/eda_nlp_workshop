@@ -1,6 +1,6 @@
-# `<Análisis de datos enfocado al procesamiento de lenguaje natural>`
+# Análisis de datos enfocado al procesamiento de lenguaje natural
 
-`<En este proyecto se realiza un breve análisis de datos enfocado en un conjunto de clasificación de emociones>`
+En este proyecto se realiza un breve análisis de datos enfocado en un conjunto de clasificación de emociones
 
 ## 📁 Project Structure
 
