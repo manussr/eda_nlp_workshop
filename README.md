@@ -33,7 +33,7 @@ cd eda_nlp_workshop
 
 2. **Crea y activa un entorno virtual (opcional)**
 ```
-conda env create -f environment.yml
+conda env create -f environment.yml -n workshop
 conda activate workshop
 ```
 
