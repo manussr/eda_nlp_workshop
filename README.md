@@ -2,10 +2,6 @@
 
 En este proyecto se realiza un breve análisis de datos enfocado en un conjunto de clasificación de emociones
 
-## 📁 Project Structure
-
-
----
 ## 🚀 Primeros Pasos
 
 Sigue estos pasos para configurar y ejecutar el cuaderno en tu máquina local.
