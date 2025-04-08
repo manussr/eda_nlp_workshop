@@ -13,7 +13,6 @@ eda_nlp_workshop/
 ├── notebooks/         # Cuadernos interactivos del taller
 ├── data/              # Datos de entrada
 ├── environment.yml    # Archivo para crear el entorno Conda
-├── requirements.txt   # Alternativa para pip
 └── README.md
 ```
 
